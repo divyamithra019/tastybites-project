@@ -68,7 +68,7 @@ nav ul li a:hover{
         rgba(10,25,47,.75),
         rgba(10,25,47,.75)
     ),
-    url('../images/restaurant.jpg');
+    url('../restaurant.jpg');
 
     background-size:cover;
     background-position:center;
